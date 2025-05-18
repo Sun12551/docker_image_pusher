@@ -1,2 +1,1 @@
-pyqlib/qlib_image_stable:stable
-chenditc/investment_data
+asterinas/asterinas:0.14.1-20250326
