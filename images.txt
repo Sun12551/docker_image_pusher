@@ -1,1 +1,1 @@
-asterinas/asterinas:0.14.1-20250326
+asterinas/asterinas
